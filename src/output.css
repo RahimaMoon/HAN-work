@@ -274,6 +274,9 @@
   .mt-\[30px\] {
     margin-top: 30px;
   }
+  .mt-\[40px\] {
+    margin-top: 40px;
+  }
   .mt-\[50p\] {
     margin-top: 50p;
   }
@@ -662,6 +665,12 @@
   }
   .p-\[40px\] {
     padding: 40px;
+  }
+  .p-\[100px\] {
+    padding: 100px;
+  }
+  .p-\[150px\] {
+    padding: 150px;
   }
   .px-3 {
     padding-inline: calc(var(--spacing) * 3);
